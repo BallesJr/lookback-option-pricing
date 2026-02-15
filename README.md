@@ -13,7 +13,7 @@ This project comes from my Undergraduate Thesis (TFG). The goal was to build a t
 ## **PROJECT STRUCTURE**
 
 - `lookback_pricing_mc.py`: The Python code with all the calculations.
-- `docs/`: [Download Full Thesis (PDF)](./docs/Final%20Year%20Thesis%20–%20Valuation%20of%20Lookback%20Options.pdf) — _Note: The theoretical background is written in Catalan as part of my Undergraduate Thesis (TFG)._
+- `docs/`: [Download Full Thesis (PDF)](./docs/Final%20Year%20Thesis%20–%20Valuation%20of%20Lookback%20Options.pdf?raw=true) — _Written in Catalan_
 
 ## **RESULTS**
 
